@@ -1,17 +1,17 @@
-# 💻 Code Analysis App
+# Code Analysis App
 
 An enhanced Streamlit application that lets users input code snippets and receive detailed explanations/analysis using a language model. The app includes performance metrics, caching, error handling, and a user-friendly interface.
 
 ## Features
 
-- **Code Analysis**: Get detailed explanations of code structure, purpose, and potential issues
+- **Code Analysis**: Get detailed explanations of complex sections of the code structure
 - **Performance Metrics**: Track latency, token counts, and model performance
 - **Model Selection**: Choose from available models in Ollama
 - **Result Caching**: Fast retrieval of previous analyses
 - **Analysis History**: Access your previous code analyses with one click
 - **Error Handling**: Robust error management with automatic retries
 - **Rate Limiting**: Prevents overloading the LLM service
-- **Performance Analytics**: Visual tracking of latency over time
+
 
 ## Setup
 
